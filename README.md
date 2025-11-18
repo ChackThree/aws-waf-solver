@@ -47,6 +47,7 @@ elif len(response) > 3000:
 
 ## TODO
 - All around faster solving time.
+- Fix the API (im lazy)
 
 ## Notes
 - Rotating proxies seem to be a bit buggy right now, if you use them, I suggest setting a custom max fail amount.
